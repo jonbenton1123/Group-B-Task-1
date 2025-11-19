@@ -20,4 +20,4 @@ jobs:
         with:
           context: foosball/
           push: true
-          tags: astronautjon/is147:${{github.run_number}}
+          tags: astronautjon/is436:${{github.run_number}}
